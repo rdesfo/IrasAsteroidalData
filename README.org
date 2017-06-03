@@ -3,3 +3,7 @@
 In 2011 I was fortunate enough to be awarded the Maine Space Grant.
 This repo is an attempt of organizing the material for the project.
 
+## Poster
+
+The poster folder contains the tex files needed to generate my poster for [[https://aas.org/taxonomy/term/447/feed][AAS 218]]
+as well as the poster itself.
