@@ -1,1 +1,5 @@
 # IrasAsteroidalData
+
+In 2011 I was fortunate enough to be awarded the Maine Space Grant.
+This repo is an attempt of organizing the material for the project.
+
