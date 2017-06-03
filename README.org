@@ -7,3 +7,11 @@ This repo is an attempt of organizing the material for the project.
 
 The poster folder contains the tex files needed to generate my poster for [[https://aas.org/taxonomy/term/447/feed][AAS 218]]
 as well as the poster itself.
+## In retrospect
+
+Going back over the files years later I really wish I had used something like 
+[[https://github.com/anishathalye/git-remote-dropbox][git-remote-dropbox]] to manage my files.  I had created many versions of files
+and moved them in and out of the dropbox folder so that I could compare changes
+as well as have additional control over files while collaborating.  Being able to
+use git locally and pushing to dropbox to collaborate with the rest of the group
+would have been a huge plus.
